@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.home {
+  min-height: 75vh;
+  background: url("../Image/horizontal-shot-white-mountains-forest-clear-sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.text-logo {
+  text-align: center;
+  padding-top: 7rem;
+  padding-bottom: 1rem;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: 800;
+}
+
+p {
+  color: white;
+  font-size: 25px;
+  font-weight: 600;
+}

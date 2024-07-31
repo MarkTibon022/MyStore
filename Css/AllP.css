@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.cont-item {
+  border: 1px solid black;
+  margin-top: 1rem;
+}
+
+.p-img {
+  height: 10rem;
+}
+
+.cont-product {
+  text-align: center;
+  border: 1px solid black;
+  padding: 1rem;
+  width: 100%;
+}
+
+.text-product {
+  font-size: 5px;
+  margin-left: 0.5rem;
+}
+
+.btnbuy {
+  margin: 0.3rem;
+}
+
+.cont-star {
+  padding: 0;
+}
+
+p {
+  padding: 0;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.c-p {
+  color: yellow;
+}
